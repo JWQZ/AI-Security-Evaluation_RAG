@@ -1,0 +1,46 @@
+nohup: ignoring input
+USER_AGENT environment variable not set, consider setting it to identify your requests.
+USER_AGENT environment variable not set, consider setting it to identify your requests.
+Traceback (most recent call last):
+  File "/home/chenjinwen/anaconda3/envs/pt24/lib/python3.10/site-packages/torch/cuda/__init__.py", line 327, in _lazy_init
+    queued_call()
+  File "/home/chenjinwen/anaconda3/envs/pt24/lib/python3.10/site-packages/torch/cuda/__init__.py", line 195, in _check_capability
+    capability = get_device_capability(d)
+  File "/home/chenjinwen/anaconda3/envs/pt24/lib/python3.10/site-packages/torch/cuda/__init__.py", line 451, in get_device_capability
+    prop = get_device_properties(device)
+  File "/home/chenjinwen/anaconda3/envs/pt24/lib/python3.10/site-packages/torch/cuda/__init__.py", line 469, in get_device_properties
+    return _get_device_properties(device)  # type: ignore[name-defined]
+RuntimeError: device >= 0 && device < num_gpus INTERNAL ASSERT FAILED at "/opt/conda/conda-bld/pytorch_1720538438429/work/aten/src/ATen/cuda/CUDAContext.cpp":49, please report a bug to PyTorch. device=, num_gpus=
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/mnt/data/chenjinwen/AI-Security-Evaluation_RAG/RAG.py", line 16, in <module>
+    print(torch.cuda.current_device())
+  File "/home/chenjinwen/anaconda3/envs/pt24/lib/python3.10/site-packages/torch/cuda/__init__.py", line 878, in current_device
+    _lazy_init()
+  File "/home/chenjinwen/anaconda3/envs/pt24/lib/python3.10/site-packages/torch/cuda/__init__.py", line 333, in _lazy_init
+    raise DeferredCudaCallError(msg) from e
+torch.cuda.DeferredCudaCallError: CUDA call failed lazily at initialization with error: device >= 0 && device < num_gpus INTERNAL ASSERT FAILED at "/opt/conda/conda-bld/pytorch_1720538438429/work/aten/src/ATen/cuda/CUDAContext.cpp":49, please report a bug to PyTorch. device=, num_gpus=
+
+CUDA call was originally invoked at:
+
+  File "/mnt/data/chenjinwen/AI-Security-Evaluation_RAG/RAG.py", line 6, in <module>
+    import torch
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/chenjinwen/anaconda3/envs/pt24/lib/python3.10/site-packages/torch/__init__.py", line 1694, in <module>
+    _C._initExtension(_manager_path())
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/chenjinwen/anaconda3/envs/pt24/lib/python3.10/site-packages/torch/cuda/__init__.py", line 259, in <module>
+    _lazy_call(_check_capability)
+  File "/home/chenjinwen/anaconda3/envs/pt24/lib/python3.10/site-packages/torch/cuda/__init__.py", line 256, in _lazy_call
+    _queued_calls.append((callable, traceback.format_stack()))
+

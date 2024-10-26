@@ -1,0 +1,1661 @@
+nohup: ignoring input
+/home/chenjinwen/AI-Security-Evaluation_RAG/RAG.py:1: LangChainDeprecationWarning: Importing AcreomLoader from langchain.document_loaders is deprecated. Please replace deprecated imports:
+
+>> from langchain.document_loaders import AcreomLoader
+
+with new imports of:
+
+>> from langchain_community.document_loaders import AcreomLoader
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.document_loaders import *
+USER_AGENT environment variable not set, consider setting it to identify your requests.
+/home/chenjinwen/AI-Security-Evaluation_RAG/RAG.py:1: LangChainDeprecationWarning: Importing AsyncHtmlLoader from langchain.document_loaders is deprecated. Please replace deprecated imports:
+
+>> from langchain.document_loaders import AsyncHtmlLoader
+
+with new imports of:
+
+>> from langchain_community.document_loaders import AsyncHtmlLoader
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.document_loaders import *
+/home/chenjinwen/AI-Security-Evaluation_RAG/RAG.py:1: LangChainDeprecationWarning: Importing AsyncChromiumLoader from langchain.document_loaders is deprecated. Please replace deprecated imports:
+
+>> from langchain.document_loaders import AsyncChromiumLoader
+
+with new imports of:
+
+>> from langchain_community.document_loaders import AsyncChromiumLoader
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.document_loaders import *
+USER_AGENT environment variable not set, consider setting it to identify your requests.
+/home/chenjinwen/AI-Security-Evaluation_RAG/RAG.py:1: LangChainDeprecationWarning: Importing AZLyricsLoader from langchain.document_loaders is deprecated. Please replace deprecated imports:
+
+>> from langchain.document_loaders import AZLyricsLoader
+
+with new imports of:
+
+>> from langchain_community.document_loaders import AZLyricsLoader
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.document_loaders import *
+/home/chenjinwen/AI-Security-Evaluation_RAG/RAG.py:1: LangChainDeprecationWarning: Importing AirbyteCDKLoader from langchain.document_loaders is deprecated. Please replace deprecated imports:
+
+>> from langchain.document_loaders import AirbyteCDKLoader
+
+with new imports of:
+
+>> from langchain_community.document_loaders import AirbyteCDKLoader
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.document_loaders import *
+/home/chenjinwen/AI-Security-Evaluation_RAG/RAG.py:1: LangChainDeprecationWarning: Importing AirbyteGongLoader from langchain.document_loaders is deprecated. Please replace deprecated imports:
+
+>> from langchain.document_loaders import AirbyteGongLoader
+
+with new imports of:
+
+>> from langchain_community.document_loaders import AirbyteGongLoader
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.document_loaders import *
+/home/chenjinwen/AI-Security-Evaluation_RAG/RAG.py:1: LangChainDeprecationWarning: Importing AirbyteJSONLoader from langchain.document_loaders is deprecated. Please replace deprecated imports:
+
+>> from langchain.document_loaders import AirbyteJSONLoader
+
+with new imports of:
+
+>> from langchain_community.document_loaders import AirbyteJSONLoader
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.document_loaders import *
+/home/chenjinwen/AI-Security-Evaluation_RAG/RAG.py:1: LangChainDeprecationWarning: Importing AirbyteHubspotLoader from langchain.document_loaders is deprecated. Please replace deprecated imports:
+
+>> from langchain.document_loaders import AirbyteHubspotLoader
+
+with new imports of:
+
+>> from langchain_community.document_loaders import AirbyteHubspotLoader
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.document_loaders import *
+/home/chenjinwen/AI-Security-Evaluation_RAG/RAG.py:1: LangChainDeprecationWarning: Importing AirbyteSalesforceLoader from langchain.document_loaders is deprecated. Please replace deprecated imports:
+
+>> from langchain.document_loaders import AirbyteSalesforceLoader
+
+with new imports of:
+
+>> from langchain_community.document_loaders import AirbyteSalesforceLoader
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.document_loaders import *
+/home/chenjinwen/AI-Security-Evaluation_RAG/RAG.py:1: LangChainDeprecationWarning: Importing AirbyteShopifyLoader from langchain.document_loaders is deprecated. Please replace deprecated imports:
+
+>> from langchain.document_loaders import AirbyteShopifyLoader
+
+with new imports of:
+
+>> from langchain_community.document_loaders import AirbyteShopifyLoader
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.document_loaders import *
+/home/chenjinwen/AI-Security-Evaluation_RAG/RAG.py:1: LangChainDeprecationWarning: Importing AirbyteStripeLoader from langchain.document_loaders is deprecated. Please replace deprecated imports:
+
+>> from langchain.document_loaders import AirbyteStripeLoader
+
+with new imports of:
+
+>> from langchain_community.document_loaders import AirbyteStripeLoader
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.document_loaders import *
+/home/chenjinwen/AI-Security-Evaluation_RAG/RAG.py:1: LangChainDeprecationWarning: Importing AirbyteTypeformLoader from langchain.document_loaders is deprecated. Please replace deprecated imports:
+
+>> from langchain.document_loaders import AirbyteTypeformLoader
+
+with new imports of:
+
+>> from langchain_community.document_loaders import AirbyteTypeformLoader
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.document_loaders import *
+/home/chenjinwen/AI-Security-Evaluation_RAG/RAG.py:1: LangChainDeprecationWarning: Importing AirbyteZendeskSupportLoader from langchain.document_loaders is deprecated. Please replace deprecated imports:
+
+>> from langchain.document_loaders import AirbyteZendeskSupportLoader
+
+with new imports of:
+
+>> from langchain_community.document_loaders import AirbyteZendeskSupportLoader
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.document_loaders import *
+/home/chenjinwen/AI-Security-Evaluation_RAG/RAG.py:1: LangChainDeprecationWarning: Importing AirtableLoader from langchain.document_loaders is deprecated. Please replace deprecated imports:
+
+>> from langchain.document_loaders import AirtableLoader
+
+with new imports of:
+
+>> from langchain_community.document_loaders import AirtableLoader
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.document_loaders import *
+/home/chenjinwen/AI-Security-Evaluation_RAG/RAG.py:1: LangChainDeprecationWarning: Importing AmazonTextractPDFLoader from langchain.document_loaders is deprecated. Please replace deprecated imports:
+
+>> from langchain.document_loaders import AmazonTextractPDFLoader
+
+with new imports of:
+
+>> from langchain_community.document_loaders import AmazonTextractPDFLoader
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.document_loaders import *
+/home/chenjinwen/AI-Security-Evaluation_RAG/RAG.py:1: LangChainDeprecationWarning: Importing ApifyDatasetLoader from langchain.document_loaders is deprecated. Please replace deprecated imports:
+
+>> from langchain.document_loaders import ApifyDatasetLoader
+
+with new imports of:
+
+>> from langchain_community.document_loaders import ApifyDatasetLoader
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.document_loaders import *
+/home/chenjinwen/AI-Security-Evaluation_RAG/RAG.py:1: LangChainDeprecationWarning: Importing ArcGISLoader from langchain.document_loaders is deprecated. Please replace deprecated imports:
+
+>> from langchain.document_loaders import ArcGISLoader
+
+with new imports of:
+
+>> from langchain_community.document_loaders import ArcGISLoader
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.document_loaders import *
+/home/chenjinwen/AI-Security-Evaluation_RAG/RAG.py:1: LangChainDeprecationWarning: Importing ArxivLoader from langchain.document_loaders is deprecated. Please replace deprecated imports:
+
+>> from langchain.document_loaders import ArxivLoader
+
+with new imports of:
+
+>> from langchain_community.document_loaders import ArxivLoader
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.document_loaders import *
+/home/chenjinwen/AI-Security-Evaluation_RAG/RAG.py:1: LangChainDeprecationWarning: Importing AssemblyAIAudioTranscriptLoader from langchain.document_loaders is deprecated. Please replace deprecated imports:
+
+>> from langchain.document_loaders import AssemblyAIAudioTranscriptLoader
+
+with new imports of:
+
+>> from langchain_community.document_loaders import AssemblyAIAudioTranscriptLoader
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.document_loaders import *
+/home/chenjinwen/AI-Security-Evaluation_RAG/RAG.py:1: LangChainDeprecationWarning: Importing AsyncHtmlLoader from langchain.document_loaders is deprecated. Please replace deprecated imports:
+
+>> from langchain.document_loaders import AsyncHtmlLoader
+
+with new imports of:
+
+>> from langchain_community.document_loaders import AsyncHtmlLoader
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.document_loaders import *
+/home/chenjinwen/AI-Security-Evaluation_RAG/RAG.py:1: LangChainDeprecationWarning: Importing AzureAIDataLoader from langchain.document_loaders is deprecated. Please replace deprecated imports:
+
+>> from langchain.document_loaders import AzureAIDataLoader
+
+with new imports of:
+
+>> from langchain_community.document_loaders import AzureAIDataLoader
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.document_loaders import *
+/home/chenjinwen/AI-Security-Evaluation_RAG/RAG.py:1: LangChainDeprecationWarning: Importing AzureBlobStorageContainerLoader from langchain.document_loaders is deprecated. Please replace deprecated imports:
+
+>> from langchain.document_loaders import AzureBlobStorageContainerLoader
+
+with new imports of:
+
+>> from langchain_community.document_loaders import AzureBlobStorageContainerLoader
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.document_loaders import *
+/home/chenjinwen/AI-Security-Evaluation_RAG/RAG.py:1: LangChainDeprecationWarning: Importing AzureBlobStorageFileLoader from langchain.document_loaders is deprecated. Please replace deprecated imports:
+
+>> from langchain.document_loaders import AzureBlobStorageFileLoader
+
+with new imports of:
+
+>> from langchain_community.document_loaders import AzureBlobStorageFileLoader
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.document_loaders import *
+/home/chenjinwen/AI-Security-Evaluation_RAG/RAG.py:1: LangChainDeprecationWarning: Importing BSHTMLLoader from langchain.document_loaders is deprecated. Please replace deprecated imports:
+
+>> from langchain.document_loaders import BSHTMLLoader
+
+with new imports of:
+
+>> from langchain_community.document_loaders import BSHTMLLoader
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.document_loaders import *
+/home/chenjinwen/AI-Security-Evaluation_RAG/RAG.py:1: LangChainDeprecationWarning: Importing BibtexLoader from langchain.document_loaders is deprecated. Please replace deprecated imports:
+
+>> from langchain.document_loaders import BibtexLoader
+
+with new imports of:
+
+>> from langchain_community.document_loaders import BibtexLoader
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.document_loaders import *
+/home/chenjinwen/AI-Security-Evaluation_RAG/RAG.py:1: LangChainDeprecationWarning: Importing BigQueryLoader from langchain.document_loaders is deprecated. Please replace deprecated imports:
+
+>> from langchain.document_loaders import BigQueryLoader
+
+with new imports of:
+
+>> from langchain_community.document_loaders import BigQueryLoader
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.document_loaders import *
+/home/chenjinwen/AI-Security-Evaluation_RAG/RAG.py:1: LangChainDeprecationWarning: Importing BiliBiliLoader from langchain.document_loaders is deprecated. Please replace deprecated imports:
+
+>> from langchain.document_loaders import BiliBiliLoader
+
+with new imports of:
+
+>> from langchain_community.document_loaders import BiliBiliLoader
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.document_loaders import *
+/home/chenjinwen/AI-Security-Evaluation_RAG/RAG.py:1: LangChainDeprecationWarning: Importing BlackboardLoader from langchain.document_loaders is deprecated. Please replace deprecated imports:
+
+>> from langchain.document_loaders import BlackboardLoader
+
+with new imports of:
+
+>> from langchain_community.document_loaders import BlackboardLoader
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.document_loaders import *
+/home/chenjinwen/AI-Security-Evaluation_RAG/RAG.py:1: LangChainDeprecationWarning: Importing BlockchainDocumentLoader from langchain.document_loaders is deprecated. Please replace deprecated imports:
+
+>> from langchain.document_loaders import BlockchainDocumentLoader
+
+with new imports of:
+
+>> from langchain_community.document_loaders import BlockchainDocumentLoader
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.document_loaders import *
+/home/chenjinwen/AI-Security-Evaluation_RAG/RAG.py:1: LangChainDeprecationWarning: Importing BraveSearchLoader from langchain.document_loaders is deprecated. Please replace deprecated imports:
+
+>> from langchain.document_loaders import BraveSearchLoader
+
+with new imports of:
+
+>> from langchain_community.document_loaders import BraveSearchLoader
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.document_loaders import *
+/home/chenjinwen/AI-Security-Evaluation_RAG/RAG.py:1: LangChainDeprecationWarning: Importing BrowserlessLoader from langchain.document_loaders is deprecated. Please replace deprecated imports:
+
+>> from langchain.document_loaders import BrowserlessLoader
+
+with new imports of:
+
+>> from langchain_community.document_loaders import BrowserlessLoader
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.document_loaders import *
+/home/chenjinwen/AI-Security-Evaluation_RAG/RAG.py:1: LangChainDeprecationWarning: Importing CSVLoader from langchain.document_loaders is deprecated. Please replace deprecated imports:
+
+>> from langchain.document_loaders import CSVLoader
+
+with new imports of:
+
+>> from langchain_community.document_loaders import CSVLoader
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.document_loaders import *
+/home/chenjinwen/AI-Security-Evaluation_RAG/RAG.py:1: LangChainDeprecationWarning: Importing ChatGPTLoader from langchain.document_loaders is deprecated. Please replace deprecated imports:
+
+>> from langchain.document_loaders import ChatGPTLoader
+
+with new imports of:
+
+>> from langchain_community.document_loaders import ChatGPTLoader
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.document_loaders import *
+/home/chenjinwen/AI-Security-Evaluation_RAG/RAG.py:1: LangChainDeprecationWarning: Importing CoNLLULoader from langchain.document_loaders is deprecated. Please replace deprecated imports:
+
+>> from langchain.document_loaders import CoNLLULoader
+
+with new imports of:
+
+>> from langchain_community.document_loaders import CoNLLULoader
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.document_loaders import *
+/home/chenjinwen/AI-Security-Evaluation_RAG/RAG.py:1: LangChainDeprecationWarning: Importing CollegeConfidentialLoader from langchain.document_loaders is deprecated. Please replace deprecated imports:
+
+>> from langchain.document_loaders import CollegeConfidentialLoader
+
+with new imports of:
+
+>> from langchain_community.document_loaders import CollegeConfidentialLoader
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.document_loaders import *
+/home/chenjinwen/AI-Security-Evaluation_RAG/RAG.py:1: LangChainDeprecationWarning: Importing ConcurrentLoader from langchain.document_loaders is deprecated. Please replace deprecated imports:
+
+>> from langchain.document_loaders import ConcurrentLoader
+
+with new imports of:
+
+>> from langchain_community.document_loaders import ConcurrentLoader
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.document_loaders import *
+/home/chenjinwen/AI-Security-Evaluation_RAG/RAG.py:1: LangChainDeprecationWarning: Importing ConfluenceLoader from langchain.document_loaders is deprecated. Please replace deprecated imports:
+
+>> from langchain.document_loaders import ConfluenceLoader
+
+with new imports of:
+
+>> from langchain_community.document_loaders import ConfluenceLoader
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.document_loaders import *
+/home/chenjinwen/AI-Security-Evaluation_RAG/RAG.py:1: LangChainDeprecationWarning: Importing CouchbaseLoader from langchain.document_loaders is deprecated. Please replace deprecated imports:
+
+>> from langchain.document_loaders import CouchbaseLoader
+
+with new imports of:
+
+>> from langchain_community.document_loaders import CouchbaseLoader
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.document_loaders import *
+/home/chenjinwen/AI-Security-Evaluation_RAG/RAG.py:1: LangChainDeprecationWarning: Importing CubeSemanticLoader from langchain.document_loaders is deprecated. Please replace deprecated imports:
+
+>> from langchain.document_loaders import CubeSemanticLoader
+
+with new imports of:
+
+>> from langchain_community.document_loaders import CubeSemanticLoader
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.document_loaders import *
+/home/chenjinwen/AI-Security-Evaluation_RAG/RAG.py:1: LangChainDeprecationWarning: Importing DataFrameLoader from langchain.document_loaders is deprecated. Please replace deprecated imports:
+
+>> from langchain.document_loaders import DataFrameLoader
+
+with new imports of:
+
+>> from langchain_community.document_loaders import DataFrameLoader
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.document_loaders import *
+/home/chenjinwen/AI-Security-Evaluation_RAG/RAG.py:1: LangChainDeprecationWarning: Importing DatadogLogsLoader from langchain.document_loaders is deprecated. Please replace deprecated imports:
+
+>> from langchain.document_loaders import DatadogLogsLoader
+
+with new imports of:
+
+>> from langchain_community.document_loaders import DatadogLogsLoader
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.document_loaders import *
+/home/chenjinwen/AI-Security-Evaluation_RAG/RAG.py:1: LangChainDeprecationWarning: Importing DiffbotLoader from langchain.document_loaders is deprecated. Please replace deprecated imports:
+
+>> from langchain.document_loaders import DiffbotLoader
+
+with new imports of:
+
+>> from langchain_community.document_loaders import DiffbotLoader
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.document_loaders import *
+/home/chenjinwen/AI-Security-Evaluation_RAG/RAG.py:1: LangChainDeprecationWarning: Importing DirectoryLoader from langchain.document_loaders is deprecated. Please replace deprecated imports:
+
+>> from langchain.document_loaders import DirectoryLoader
+
+with new imports of:
+
+>> from langchain_community.document_loaders import DirectoryLoader
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.document_loaders import *
+/home/chenjinwen/AI-Security-Evaluation_RAG/RAG.py:1: LangChainDeprecationWarning: Importing DiscordChatLoader from langchain.document_loaders is deprecated. Please replace deprecated imports:
+
+>> from langchain.document_loaders import DiscordChatLoader
+
+with new imports of:
+
+>> from langchain_community.document_loaders import DiscordChatLoader
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.document_loaders import *
+/home/chenjinwen/AI-Security-Evaluation_RAG/RAG.py:1: LangChainDeprecationWarning: Importing DocugamiLoader from langchain.document_loaders is deprecated. Please replace deprecated imports:
+
+>> from langchain.document_loaders import DocugamiLoader
+
+with new imports of:
+
+>> from langchain_community.document_loaders import DocugamiLoader
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.document_loaders import *
+/home/chenjinwen/AI-Security-Evaluation_RAG/RAG.py:1: LangChainDeprecationWarning: Importing DocusaurusLoader from langchain.document_loaders is deprecated. Please replace deprecated imports:
+
+>> from langchain.document_loaders import DocusaurusLoader
+
+with new imports of:
+
+>> from langchain_community.document_loaders import DocusaurusLoader
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.document_loaders import *
+/home/chenjinwen/AI-Security-Evaluation_RAG/RAG.py:1: LangChainDeprecationWarning: Importing Docx2txtLoader from langchain.document_loaders is deprecated. Please replace deprecated imports:
+
+>> from langchain.document_loaders import Docx2txtLoader
+
+with new imports of:
+
+>> from langchain_community.document_loaders import Docx2txtLoader
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.document_loaders import *
+/home/chenjinwen/AI-Security-Evaluation_RAG/RAG.py:1: LangChainDeprecationWarning: Importing DropboxLoader from langchain.document_loaders is deprecated. Please replace deprecated imports:
+
+>> from langchain.document_loaders import DropboxLoader
+
+with new imports of:
+
+>> from langchain_community.document_loaders import DropboxLoader
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.document_loaders import *
+/home/chenjinwen/AI-Security-Evaluation_RAG/RAG.py:1: LangChainDeprecationWarning: Importing DuckDBLoader from langchain.document_loaders is deprecated. Please replace deprecated imports:
+
+>> from langchain.document_loaders import DuckDBLoader
+
+with new imports of:
+
+>> from langchain_community.document_loaders import DuckDBLoader
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.document_loaders import *
+/home/chenjinwen/AI-Security-Evaluation_RAG/RAG.py:1: LangChainDeprecationWarning: Importing EtherscanLoader from langchain.document_loaders is deprecated. Please replace deprecated imports:
+
+>> from langchain.document_loaders import EtherscanLoader
+
+with new imports of:
+
+>> from langchain_community.document_loaders import EtherscanLoader
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.document_loaders import *
+/home/chenjinwen/AI-Security-Evaluation_RAG/RAG.py:1: LangChainDeprecationWarning: Importing EverNoteLoader from langchain.document_loaders is deprecated. Please replace deprecated imports:
+
+>> from langchain.document_loaders import EverNoteLoader
+
+with new imports of:
+
+>> from langchain_community.document_loaders import EverNoteLoader
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.document_loaders import *
+/home/chenjinwen/AI-Security-Evaluation_RAG/RAG.py:1: LangChainDeprecationWarning: Importing FacebookChatLoader from langchain.document_loaders is deprecated. Please replace deprecated imports:
+
+>> from langchain.document_loaders import FacebookChatLoader
+
+with new imports of:
+
+>> from langchain_community.document_loaders import FacebookChatLoader
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.document_loaders import *
+/home/chenjinwen/AI-Security-Evaluation_RAG/RAG.py:1: LangChainDeprecationWarning: Importing FaunaLoader from langchain.document_loaders is deprecated. Please replace deprecated imports:
+
+>> from langchain.document_loaders import FaunaLoader
+
+with new imports of:
+
+>> from langchain_community.document_loaders import FaunaLoader
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.document_loaders import *
+/home/chenjinwen/AI-Security-Evaluation_RAG/RAG.py:1: LangChainDeprecationWarning: Importing FigmaFileLoader from langchain.document_loaders is deprecated. Please replace deprecated imports:
+
+>> from langchain.document_loaders import FigmaFileLoader
+
+with new imports of:
+
+>> from langchain_community.document_loaders import FigmaFileLoader
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.document_loaders import *
+/home/chenjinwen/AI-Security-Evaluation_RAG/RAG.py:1: LangChainDeprecationWarning: Importing FileSystemBlobLoader from langchain.document_loaders is deprecated. Please replace deprecated imports:
+
+>> from langchain.document_loaders import FileSystemBlobLoader
+
+with new imports of:
+
+>> from langchain_community.document_loaders import FileSystemBlobLoader
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.document_loaders import *
+/home/chenjinwen/AI-Security-Evaluation_RAG/RAG.py:1: LangChainDeprecationWarning: Importing GCSDirectoryLoader from langchain.document_loaders is deprecated. Please replace deprecated imports:
+
+>> from langchain.document_loaders import GCSDirectoryLoader
+
+with new imports of:
+
+>> from langchain_community.document_loaders import GCSDirectoryLoader
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.document_loaders import *
+/home/chenjinwen/AI-Security-Evaluation_RAG/RAG.py:1: LangChainDeprecationWarning: Importing GCSFileLoader from langchain.document_loaders is deprecated. Please replace deprecated imports:
+
+>> from langchain.document_loaders import GCSFileLoader
+
+with new imports of:
+
+>> from langchain_community.document_loaders import GCSFileLoader
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.document_loaders import *
+/home/chenjinwen/AI-Security-Evaluation_RAG/RAG.py:1: LangChainDeprecationWarning: Importing GeoDataFrameLoader from langchain.document_loaders is deprecated. Please replace deprecated imports:
+
+>> from langchain.document_loaders import GeoDataFrameLoader
+
+with new imports of:
+
+>> from langchain_community.document_loaders import GeoDataFrameLoader
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.document_loaders import *
+/home/chenjinwen/AI-Security-Evaluation_RAG/RAG.py:1: LangChainDeprecationWarning: Importing GithubFileLoader from langchain.document_loaders is deprecated. Please replace deprecated imports:
+
+>> from langchain.document_loaders import GithubFileLoader
+
+with new imports of:
+
+>> from langchain_community.document_loaders import GithubFileLoader
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.document_loaders import *
+/home/chenjinwen/AI-Security-Evaluation_RAG/RAG.py:1: LangChainDeprecationWarning: Importing GitHubIssuesLoader from langchain.document_loaders is deprecated. Please replace deprecated imports:
+
+>> from langchain.document_loaders import GitHubIssuesLoader
+
+with new imports of:
+
+>> from langchain_community.document_loaders import GitHubIssuesLoader
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.document_loaders import *
+/home/chenjinwen/AI-Security-Evaluation_RAG/RAG.py:1: LangChainDeprecationWarning: Importing GitLoader from langchain.document_loaders is deprecated. Please replace deprecated imports:
+
+>> from langchain.document_loaders import GitLoader
+
+with new imports of:
+
+>> from langchain_community.document_loaders import GitLoader
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.document_loaders import *
+/home/chenjinwen/AI-Security-Evaluation_RAG/RAG.py:1: LangChainDeprecationWarning: Importing GitbookLoader from langchain.document_loaders is deprecated. Please replace deprecated imports:
+
+>> from langchain.document_loaders import GitbookLoader
+
+with new imports of:
+
+>> from langchain_community.document_loaders import GitbookLoader
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.document_loaders import *
+/home/chenjinwen/AI-Security-Evaluation_RAG/RAG.py:1: LangChainDeprecationWarning: Importing GoogleApiClient from langchain.document_loaders is deprecated. Please replace deprecated imports:
+
+>> from langchain.document_loaders import GoogleApiClient
+
+with new imports of:
+
+>> from langchain_community.document_loaders import GoogleApiClient
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.document_loaders import *
+/home/chenjinwen/AI-Security-Evaluation_RAG/RAG.py:1: LangChainDeprecationWarning: Importing GoogleApiYoutubeLoader from langchain.document_loaders is deprecated. Please replace deprecated imports:
+
+>> from langchain.document_loaders import GoogleApiYoutubeLoader
+
+with new imports of:
+
+>> from langchain_community.document_loaders import GoogleApiYoutubeLoader
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.document_loaders import *
+/home/chenjinwen/AI-Security-Evaluation_RAG/RAG.py:1: LangChainDeprecationWarning: Importing GoogleSpeechToTextLoader from langchain.document_loaders is deprecated. Please replace deprecated imports:
+
+>> from langchain.document_loaders import GoogleSpeechToTextLoader
+
+with new imports of:
+
+>> from langchain_community.document_loaders import GoogleSpeechToTextLoader
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.document_loaders import *
+/home/chenjinwen/AI-Security-Evaluation_RAG/RAG.py:1: LangChainDeprecationWarning: Importing GoogleDriveLoader from langchain.document_loaders is deprecated. Please replace deprecated imports:
+
+>> from langchain.document_loaders import GoogleDriveLoader
+
+with new imports of:
+
+>> from langchain_community.document_loaders import GoogleDriveLoader
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.document_loaders import *
+/home/chenjinwen/AI-Security-Evaluation_RAG/RAG.py:1: LangChainDeprecationWarning: Importing GutenbergLoader from langchain.document_loaders is deprecated. Please replace deprecated imports:
+
+>> from langchain.document_loaders import GutenbergLoader
+
+with new imports of:
+
+>> from langchain_community.document_loaders import GutenbergLoader
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.document_loaders import *
+/home/chenjinwen/AI-Security-Evaluation_RAG/RAG.py:1: LangChainDeprecationWarning: Importing HNLoader from langchain.document_loaders is deprecated. Please replace deprecated imports:
+
+>> from langchain.document_loaders import HNLoader
+
+with new imports of:
+
+>> from langchain_community.document_loaders import HNLoader
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.document_loaders import *
+/home/chenjinwen/AI-Security-Evaluation_RAG/RAG.py:1: LangChainDeprecationWarning: Importing HuggingFaceDatasetLoader from langchain.document_loaders is deprecated. Please replace deprecated imports:
+
+>> from langchain.document_loaders import HuggingFaceDatasetLoader
+
+with new imports of:
+
+>> from langchain_community.document_loaders import HuggingFaceDatasetLoader
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.document_loaders import *
+/home/chenjinwen/AI-Security-Evaluation_RAG/RAG.py:1: LangChainDeprecationWarning: Importing IFixitLoader from langchain.document_loaders is deprecated. Please replace deprecated imports:
+
+>> from langchain.document_loaders import IFixitLoader
+
+with new imports of:
+
+>> from langchain_community.document_loaders import IFixitLoader
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.document_loaders import *
+/home/chenjinwen/AI-Security-Evaluation_RAG/RAG.py:1: LangChainDeprecationWarning: Importing IMSDbLoader from langchain.document_loaders is deprecated. Please replace deprecated imports:
+
+>> from langchain.document_loaders import IMSDbLoader
+
+with new imports of:
+
+>> from langchain_community.document_loaders import IMSDbLoader
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.document_loaders import *
+/home/chenjinwen/AI-Security-Evaluation_RAG/RAG.py:1: LangChainDeprecationWarning: Importing ImageCaptionLoader from langchain.document_loaders is deprecated. Please replace deprecated imports:
+
+>> from langchain.document_loaders import ImageCaptionLoader
+
+with new imports of:
+
+>> from langchain_community.document_loaders import ImageCaptionLoader
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.document_loaders import *
+/home/chenjinwen/AI-Security-Evaluation_RAG/RAG.py:1: LangChainDeprecationWarning: Importing IuguLoader from langchain.document_loaders is deprecated. Please replace deprecated imports:
+
+>> from langchain.document_loaders import IuguLoader
+
+with new imports of:
+
+>> from langchain_community.document_loaders import IuguLoader
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.document_loaders import *
+/home/chenjinwen/AI-Security-Evaluation_RAG/RAG.py:1: LangChainDeprecationWarning: Importing JSONLoader from langchain.document_loaders is deprecated. Please replace deprecated imports:
+
+>> from langchain.document_loaders import JSONLoader
+
+with new imports of:
+
+>> from langchain_community.document_loaders import JSONLoader
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.document_loaders import *
+/home/chenjinwen/AI-Security-Evaluation_RAG/RAG.py:1: LangChainDeprecationWarning: Importing JoplinLoader from langchain.document_loaders is deprecated. Please replace deprecated imports:
+
+>> from langchain.document_loaders import JoplinLoader
+
+with new imports of:
+
+>> from langchain_community.document_loaders import JoplinLoader
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.document_loaders import *
+/home/chenjinwen/AI-Security-Evaluation_RAG/RAG.py:1: LangChainDeprecationWarning: Importing LarkSuiteDocLoader from langchain.document_loaders is deprecated. Please replace deprecated imports:
+
+>> from langchain.document_loaders import LarkSuiteDocLoader
+
+with new imports of:
+
+>> from langchain_community.document_loaders import LarkSuiteDocLoader
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.document_loaders import *
+/home/chenjinwen/AI-Security-Evaluation_RAG/RAG.py:1: LangChainDeprecationWarning: Importing LakeFSLoader from langchain.document_loaders is deprecated. Please replace deprecated imports:
+
+>> from langchain.document_loaders import LakeFSLoader
+
+with new imports of:
+
+>> from langchain_community.document_loaders import LakeFSLoader
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.document_loaders import *
+/home/chenjinwen/AI-Security-Evaluation_RAG/RAG.py:1: LangChainDeprecationWarning: Importing MHTMLLoader from langchain.document_loaders is deprecated. Please replace deprecated imports:
+
+>> from langchain.document_loaders import MHTMLLoader
+
+with new imports of:
+
+>> from langchain_community.document_loaders import MHTMLLoader
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.document_loaders import *
+/home/chenjinwen/AI-Security-Evaluation_RAG/RAG.py:1: LangChainDeprecationWarning: Importing MWDumpLoader from langchain.document_loaders is deprecated. Please replace deprecated imports:
+
+>> from langchain.document_loaders import MWDumpLoader
+
+with new imports of:
+
+>> from langchain_community.document_loaders import MWDumpLoader
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.document_loaders import *
+/home/chenjinwen/AI-Security-Evaluation_RAG/RAG.py:1: LangChainDeprecationWarning: Importing MastodonTootsLoader from langchain.document_loaders is deprecated. Please replace deprecated imports:
+
+>> from langchain.document_loaders import MastodonTootsLoader
+
+with new imports of:
+
+>> from langchain_community.document_loaders import MastodonTootsLoader
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.document_loaders import *
+/home/chenjinwen/AI-Security-Evaluation_RAG/RAG.py:1: LangChainDeprecationWarning: Importing MathpixPDFLoader from langchain.document_loaders is deprecated. Please replace deprecated imports:
+
+>> from langchain.document_loaders import MathpixPDFLoader
+
+with new imports of:
+
+>> from langchain_community.document_loaders import MathpixPDFLoader
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.document_loaders import *
+/home/chenjinwen/AI-Security-Evaluation_RAG/RAG.py:1: LangChainDeprecationWarning: Importing MaxComputeLoader from langchain.document_loaders is deprecated. Please replace deprecated imports:
+
+>> from langchain.document_loaders import MaxComputeLoader
+
+with new imports of:
+
+>> from langchain_community.document_loaders import MaxComputeLoader
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.document_loaders import *
+/home/chenjinwen/AI-Security-Evaluation_RAG/RAG.py:1: LangChainDeprecationWarning: Importing MergedDataLoader from langchain.document_loaders is deprecated. Please replace deprecated imports:
+
+>> from langchain.document_loaders import MergedDataLoader
+
+with new imports of:
+
+>> from langchain_community.document_loaders import MergedDataLoader
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.document_loaders import *
+/home/chenjinwen/AI-Security-Evaluation_RAG/RAG.py:1: LangChainDeprecationWarning: Importing ModernTreasuryLoader from langchain.document_loaders is deprecated. Please replace deprecated imports:
+
+>> from langchain.document_loaders import ModernTreasuryLoader
+
+with new imports of:
+
+>> from langchain_community.document_loaders import ModernTreasuryLoader
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.document_loaders import *
+/home/chenjinwen/AI-Security-Evaluation_RAG/RAG.py:1: LangChainDeprecationWarning: Importing MongodbLoader from langchain.document_loaders is deprecated. Please replace deprecated imports:
+
+>> from langchain.document_loaders import MongodbLoader
+
+with new imports of:
+
+>> from langchain_community.document_loaders import MongodbLoader
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.document_loaders import *
+/home/chenjinwen/AI-Security-Evaluation_RAG/RAG.py:1: LangChainDeprecationWarning: Importing NewsURLLoader from langchain.document_loaders is deprecated. Please replace deprecated imports:
+
+>> from langchain.document_loaders import NewsURLLoader
+
+with new imports of:
+
+>> from langchain_community.document_loaders import NewsURLLoader
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.document_loaders import *
+/home/chenjinwen/AI-Security-Evaluation_RAG/RAG.py:1: LangChainDeprecationWarning: Importing NotebookLoader from langchain.document_loaders is deprecated. Please replace deprecated imports:
+
+>> from langchain.document_loaders import NotebookLoader
+
+with new imports of:
+
+>> from langchain_community.document_loaders import NotebookLoader
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.document_loaders import *
+/home/chenjinwen/AI-Security-Evaluation_RAG/RAG.py:1: LangChainDeprecationWarning: Importing NotionDBLoader from langchain.document_loaders is deprecated. Please replace deprecated imports:
+
+>> from langchain.document_loaders import NotionDBLoader
+
+with new imports of:
+
+>> from langchain_community.document_loaders import NotionDBLoader
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.document_loaders import *
+/home/chenjinwen/AI-Security-Evaluation_RAG/RAG.py:1: LangChainDeprecationWarning: Importing NotionDirectoryLoader from langchain.document_loaders is deprecated. Please replace deprecated imports:
+
+>> from langchain.document_loaders import NotionDirectoryLoader
+
+with new imports of:
+
+>> from langchain_community.document_loaders import NotionDirectoryLoader
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.document_loaders import *
+/home/chenjinwen/AI-Security-Evaluation_RAG/RAG.py:1: LangChainDeprecationWarning: Importing OBSDirectoryLoader from langchain.document_loaders is deprecated. Please replace deprecated imports:
+
+>> from langchain.document_loaders import OBSDirectoryLoader
+
+with new imports of:
+
+>> from langchain_community.document_loaders import OBSDirectoryLoader
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.document_loaders import *
+/home/chenjinwen/AI-Security-Evaluation_RAG/RAG.py:1: LangChainDeprecationWarning: Importing OBSFileLoader from langchain.document_loaders is deprecated. Please replace deprecated imports:
+
+>> from langchain.document_loaders import OBSFileLoader
+
+with new imports of:
+
+>> from langchain_community.document_loaders import OBSFileLoader
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.document_loaders import *
+/home/chenjinwen/AI-Security-Evaluation_RAG/RAG.py:1: LangChainDeprecationWarning: Importing ObsidianLoader from langchain.document_loaders is deprecated. Please replace deprecated imports:
+
+>> from langchain.document_loaders import ObsidianLoader
+
+with new imports of:
+
+>> from langchain_community.document_loaders import ObsidianLoader
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.document_loaders import *
+/home/chenjinwen/AI-Security-Evaluation_RAG/RAG.py:1: LangChainDeprecationWarning: Importing OneDriveFileLoader from langchain.document_loaders is deprecated. Please replace deprecated imports:
+
+>> from langchain.document_loaders import OneDriveFileLoader
+
+with new imports of:
+
+>> from langchain_community.document_loaders import OneDriveFileLoader
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.document_loaders import *
+/home/chenjinwen/AI-Security-Evaluation_RAG/RAG.py:1: LangChainDeprecationWarning: Importing OneDriveLoader from langchain.document_loaders is deprecated. Please replace deprecated imports:
+
+>> from langchain.document_loaders import OneDriveLoader
+
+with new imports of:
+
+>> from langchain_community.document_loaders import OneDriveLoader
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.document_loaders import *
+/home/chenjinwen/AI-Security-Evaluation_RAG/RAG.py:1: LangChainDeprecationWarning: Importing OnlinePDFLoader from langchain.document_loaders is deprecated. Please replace deprecated imports:
+
+>> from langchain.document_loaders import OnlinePDFLoader
+
+with new imports of:
+
+>> from langchain_community.document_loaders import OnlinePDFLoader
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.document_loaders import *
+/home/chenjinwen/AI-Security-Evaluation_RAG/RAG.py:1: LangChainDeprecationWarning: Importing OpenCityDataLoader from langchain.document_loaders is deprecated. Please replace deprecated imports:
+
+>> from langchain.document_loaders import OpenCityDataLoader
+
+with new imports of:
+
+>> from langchain_community.document_loaders import OpenCityDataLoader
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.document_loaders import *
+/home/chenjinwen/AI-Security-Evaluation_RAG/RAG.py:1: LangChainDeprecationWarning: Importing OutlookMessageLoader from langchain.document_loaders is deprecated. Please replace deprecated imports:
+
+>> from langchain.document_loaders import OutlookMessageLoader
+
+with new imports of:
+
+>> from langchain_community.document_loaders import OutlookMessageLoader
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.document_loaders import *
+/home/chenjinwen/AI-Security-Evaluation_RAG/RAG.py:1: LangChainDeprecationWarning: Importing PDFMinerLoader from langchain.document_loaders is deprecated. Please replace deprecated imports:
+
+>> from langchain.document_loaders import PDFMinerLoader
+
+with new imports of:
+
+>> from langchain_community.document_loaders import PDFMinerLoader
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.document_loaders import *
+/home/chenjinwen/AI-Security-Evaluation_RAG/RAG.py:1: LangChainDeprecationWarning: Importing PDFMinerPDFasHTMLLoader from langchain.document_loaders is deprecated. Please replace deprecated imports:
+
+>> from langchain.document_loaders import PDFMinerPDFasHTMLLoader
+
+with new imports of:
+
+>> from langchain_community.document_loaders import PDFMinerPDFasHTMLLoader
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.document_loaders import *
+/home/chenjinwen/AI-Security-Evaluation_RAG/RAG.py:1: LangChainDeprecationWarning: Importing PDFPlumberLoader from langchain.document_loaders is deprecated. Please replace deprecated imports:
+
+>> from langchain.document_loaders import PDFPlumberLoader
+
+with new imports of:
+
+>> from langchain_community.document_loaders import PDFPlumberLoader
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.document_loaders import *
+/home/chenjinwen/AI-Security-Evaluation_RAG/RAG.py:1: LangChainDeprecationWarning: Importing PlaywrightURLLoader from langchain.document_loaders is deprecated. Please replace deprecated imports:
+
+>> from langchain.document_loaders import PlaywrightURLLoader
+
+with new imports of:
+
+>> from langchain_community.document_loaders import PlaywrightURLLoader
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.document_loaders import *
+/home/chenjinwen/AI-Security-Evaluation_RAG/RAG.py:1: LangChainDeprecationWarning: Importing PolarsDataFrameLoader from langchain.document_loaders is deprecated. Please replace deprecated imports:
+
+>> from langchain.document_loaders import PolarsDataFrameLoader
+
+with new imports of:
+
+>> from langchain_community.document_loaders import PolarsDataFrameLoader
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.document_loaders import *
+/home/chenjinwen/AI-Security-Evaluation_RAG/RAG.py:1: LangChainDeprecationWarning: Importing PsychicLoader from langchain.document_loaders is deprecated. Please replace deprecated imports:
+
+>> from langchain.document_loaders import PsychicLoader
+
+with new imports of:
+
+>> from langchain_community.document_loaders import PsychicLoader
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.document_loaders import *
+/home/chenjinwen/AI-Security-Evaluation_RAG/RAG.py:1: LangChainDeprecationWarning: Importing PubMedLoader from langchain.document_loaders is deprecated. Please replace deprecated imports:
+
+>> from langchain.document_loaders import PubMedLoader
+
+with new imports of:
+
+>> from langchain_community.document_loaders import PubMedLoader
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.document_loaders import *
+/home/chenjinwen/AI-Security-Evaluation_RAG/RAG.py:1: LangChainDeprecationWarning: Importing PyMuPDFLoader from langchain.document_loaders is deprecated. Please replace deprecated imports:
+
+>> from langchain.document_loaders import PyMuPDFLoader
+
+with new imports of:
+
+>> from langchain_community.document_loaders import PyMuPDFLoader
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.document_loaders import *
+/home/chenjinwen/AI-Security-Evaluation_RAG/RAG.py:1: LangChainDeprecationWarning: Importing PyPDFDirectoryLoader from langchain.document_loaders is deprecated. Please replace deprecated imports:
+
+>> from langchain.document_loaders import PyPDFDirectoryLoader
+
+with new imports of:
+
+>> from langchain_community.document_loaders import PyPDFDirectoryLoader
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.document_loaders import *
+/home/chenjinwen/AI-Security-Evaluation_RAG/RAG.py:1: LangChainDeprecationWarning: Importing PagedPDFSplitter from langchain.document_loaders is deprecated. Please replace deprecated imports:
+
+>> from langchain.document_loaders import PagedPDFSplitter
+
+with new imports of:
+
+>> from langchain_community.document_loaders import PagedPDFSplitter
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.document_loaders import *
+/home/chenjinwen/AI-Security-Evaluation_RAG/RAG.py:1: LangChainDeprecationWarning: Importing PyPDFLoader from langchain.document_loaders is deprecated. Please replace deprecated imports:
+
+>> from langchain.document_loaders import PyPDFLoader
+
+with new imports of:
+
+>> from langchain_community.document_loaders import PyPDFLoader
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.document_loaders import *
+/home/chenjinwen/AI-Security-Evaluation_RAG/RAG.py:1: LangChainDeprecationWarning: Importing PyPDFium2Loader from langchain.document_loaders is deprecated. Please replace deprecated imports:
+
+>> from langchain.document_loaders import PyPDFium2Loader
+
+with new imports of:
+
+>> from langchain_community.document_loaders import PyPDFium2Loader
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.document_loaders import *
+/home/chenjinwen/AI-Security-Evaluation_RAG/RAG.py:1: LangChainDeprecationWarning: Importing PySparkDataFrameLoader from langchain.document_loaders is deprecated. Please replace deprecated imports:
+
+>> from langchain.document_loaders import PySparkDataFrameLoader
+
+with new imports of:
+
+>> from langchain_community.document_loaders import PySparkDataFrameLoader
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.document_loaders import *
+/home/chenjinwen/AI-Security-Evaluation_RAG/RAG.py:1: LangChainDeprecationWarning: Importing PythonLoader from langchain.document_loaders is deprecated. Please replace deprecated imports:
+
+>> from langchain.document_loaders import PythonLoader
+
+with new imports of:
+
+>> from langchain_community.document_loaders import PythonLoader
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.document_loaders import *
+/home/chenjinwen/AI-Security-Evaluation_RAG/RAG.py:1: LangChainDeprecationWarning: Importing RSSFeedLoader from langchain.document_loaders is deprecated. Please replace deprecated imports:
+
+>> from langchain.document_loaders import RSSFeedLoader
+
+with new imports of:
+
+>> from langchain_community.document_loaders import RSSFeedLoader
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.document_loaders import *
+/home/chenjinwen/AI-Security-Evaluation_RAG/RAG.py:1: LangChainDeprecationWarning: Importing ReadTheDocsLoader from langchain.document_loaders is deprecated. Please replace deprecated imports:
+
+>> from langchain.document_loaders import ReadTheDocsLoader
+
+with new imports of:
+
+>> from langchain_community.document_loaders import ReadTheDocsLoader
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.document_loaders import *
+/home/chenjinwen/AI-Security-Evaluation_RAG/RAG.py:1: LangChainDeprecationWarning: Importing RecursiveUrlLoader from langchain.document_loaders is deprecated. Please replace deprecated imports:
+
+>> from langchain.document_loaders import RecursiveUrlLoader
+
+with new imports of:
+
+>> from langchain_community.document_loaders import RecursiveUrlLoader
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.document_loaders import *
+/home/chenjinwen/AI-Security-Evaluation_RAG/RAG.py:1: LangChainDeprecationWarning: Importing RedditPostsLoader from langchain.document_loaders is deprecated. Please replace deprecated imports:
+
+>> from langchain.document_loaders import RedditPostsLoader
+
+with new imports of:
+
+>> from langchain_community.document_loaders import RedditPostsLoader
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.document_loaders import *
+/home/chenjinwen/AI-Security-Evaluation_RAG/RAG.py:1: LangChainDeprecationWarning: Importing RoamLoader from langchain.document_loaders is deprecated. Please replace deprecated imports:
+
+>> from langchain.document_loaders import RoamLoader
+
+with new imports of:
+
+>> from langchain_community.document_loaders import RoamLoader
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.document_loaders import *
+/home/chenjinwen/AI-Security-Evaluation_RAG/RAG.py:1: LangChainDeprecationWarning: Importing RocksetLoader from langchain.document_loaders is deprecated. Please replace deprecated imports:
+
+>> from langchain.document_loaders import RocksetLoader
+
+with new imports of:
+
+>> from langchain_community.document_loaders import RocksetLoader
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.document_loaders import *
+/home/chenjinwen/AI-Security-Evaluation_RAG/RAG.py:1: LangChainDeprecationWarning: Importing S3DirectoryLoader from langchain.document_loaders is deprecated. Please replace deprecated imports:
+
+>> from langchain.document_loaders import S3DirectoryLoader
+
+with new imports of:
+
+>> from langchain_community.document_loaders import S3DirectoryLoader
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.document_loaders import *
+/home/chenjinwen/AI-Security-Evaluation_RAG/RAG.py:1: LangChainDeprecationWarning: Importing S3FileLoader from langchain.document_loaders is deprecated. Please replace deprecated imports:
+
+>> from langchain.document_loaders import S3FileLoader
+
+with new imports of:
+
+>> from langchain_community.document_loaders import S3FileLoader
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.document_loaders import *
+/home/chenjinwen/AI-Security-Evaluation_RAG/RAG.py:1: LangChainDeprecationWarning: Importing SRTLoader from langchain.document_loaders is deprecated. Please replace deprecated imports:
+
+>> from langchain.document_loaders import SRTLoader
+
+with new imports of:
+
+>> from langchain_community.document_loaders import SRTLoader
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.document_loaders import *
+/home/chenjinwen/AI-Security-Evaluation_RAG/RAG.py:1: LangChainDeprecationWarning: Importing SeleniumURLLoader from langchain.document_loaders is deprecated. Please replace deprecated imports:
+
+>> from langchain.document_loaders import SeleniumURLLoader
+
+with new imports of:
+
+>> from langchain_community.document_loaders import SeleniumURLLoader
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.document_loaders import *
+/home/chenjinwen/AI-Security-Evaluation_RAG/RAG.py:1: LangChainDeprecationWarning: Importing SharePointLoader from langchain.document_loaders is deprecated. Please replace deprecated imports:
+
+>> from langchain.document_loaders import SharePointLoader
+
+with new imports of:
+
+>> from langchain_community.document_loaders import SharePointLoader
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.document_loaders import *
+/home/chenjinwen/AI-Security-Evaluation_RAG/RAG.py:1: LangChainDeprecationWarning: Importing SitemapLoader from langchain.document_loaders is deprecated. Please replace deprecated imports:
+
+>> from langchain.document_loaders import SitemapLoader
+
+with new imports of:
+
+>> from langchain_community.document_loaders import SitemapLoader
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.document_loaders import *
+/home/chenjinwen/AI-Security-Evaluation_RAG/RAG.py:1: LangChainDeprecationWarning: Importing SlackDirectoryLoader from langchain.document_loaders is deprecated. Please replace deprecated imports:
+
+>> from langchain.document_loaders import SlackDirectoryLoader
+
+with new imports of:
+
+>> from langchain_community.document_loaders import SlackDirectoryLoader
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.document_loaders import *
+/home/chenjinwen/AI-Security-Evaluation_RAG/RAG.py:1: LangChainDeprecationWarning: Importing SnowflakeLoader from langchain.document_loaders is deprecated. Please replace deprecated imports:
+
+>> from langchain.document_loaders import SnowflakeLoader
+
+with new imports of:
+
+>> from langchain_community.document_loaders import SnowflakeLoader
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.document_loaders import *
+/home/chenjinwen/AI-Security-Evaluation_RAG/RAG.py:1: LangChainDeprecationWarning: Importing SpreedlyLoader from langchain.document_loaders is deprecated. Please replace deprecated imports:
+
+>> from langchain.document_loaders import SpreedlyLoader
+
+with new imports of:
+
+>> from langchain_community.document_loaders import SpreedlyLoader
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.document_loaders import *
+/home/chenjinwen/AI-Security-Evaluation_RAG/RAG.py:1: LangChainDeprecationWarning: Importing StripeLoader from langchain.document_loaders is deprecated. Please replace deprecated imports:
+
+>> from langchain.document_loaders import StripeLoader
+
+with new imports of:
+
+>> from langchain_community.document_loaders import StripeLoader
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.document_loaders import *
+/home/chenjinwen/AI-Security-Evaluation_RAG/RAG.py:1: LangChainDeprecationWarning: Importing TelegramChatApiLoader from langchain.document_loaders is deprecated. Please replace deprecated imports:
+
+>> from langchain.document_loaders import TelegramChatApiLoader
+
+with new imports of:
+
+>> from langchain_community.document_loaders import TelegramChatApiLoader
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.document_loaders import *
+/home/chenjinwen/AI-Security-Evaluation_RAG/RAG.py:1: LangChainDeprecationWarning: Importing TelegramChatFileLoader from langchain.document_loaders is deprecated. Please replace deprecated imports:
+
+>> from langchain.document_loaders import TelegramChatFileLoader
+
+with new imports of:
+
+>> from langchain_community.document_loaders import TelegramChatFileLoader
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.document_loaders import *
+/home/chenjinwen/AI-Security-Evaluation_RAG/RAG.py:1: LangChainDeprecationWarning: Importing TelegramChatLoader from langchain.document_loaders is deprecated. Please replace deprecated imports:
+
+>> from langchain.document_loaders import TelegramChatLoader
+
+with new imports of:
+
+>> from langchain_community.document_loaders import TelegramChatLoader
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.document_loaders import *
+/home/chenjinwen/AI-Security-Evaluation_RAG/RAG.py:1: LangChainDeprecationWarning: Importing TensorflowDatasetLoader from langchain.document_loaders is deprecated. Please replace deprecated imports:
+
+>> from langchain.document_loaders import TensorflowDatasetLoader
+
+with new imports of:
+
+>> from langchain_community.document_loaders import TensorflowDatasetLoader
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.document_loaders import *
+/home/chenjinwen/AI-Security-Evaluation_RAG/RAG.py:1: LangChainDeprecationWarning: Importing TencentCOSDirectoryLoader from langchain.document_loaders is deprecated. Please replace deprecated imports:
+
+>> from langchain.document_loaders import TencentCOSDirectoryLoader
+
+with new imports of:
+
+>> from langchain_community.document_loaders import TencentCOSDirectoryLoader
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.document_loaders import *
+/home/chenjinwen/AI-Security-Evaluation_RAG/RAG.py:1: LangChainDeprecationWarning: Importing TencentCOSFileLoader from langchain.document_loaders is deprecated. Please replace deprecated imports:
+
+>> from langchain.document_loaders import TencentCOSFileLoader
+
+with new imports of:
+
+>> from langchain_community.document_loaders import TencentCOSFileLoader
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.document_loaders import *
+/home/chenjinwen/AI-Security-Evaluation_RAG/RAG.py:1: LangChainDeprecationWarning: Importing TextLoader from langchain.document_loaders is deprecated. Please replace deprecated imports:
+
+>> from langchain.document_loaders import TextLoader
+
+with new imports of:
+
+>> from langchain_community.document_loaders import TextLoader
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.document_loaders import *
+/home/chenjinwen/AI-Security-Evaluation_RAG/RAG.py:1: LangChainDeprecationWarning: Importing ToMarkdownLoader from langchain.document_loaders is deprecated. Please replace deprecated imports:
+
+>> from langchain.document_loaders import ToMarkdownLoader
+
+with new imports of:
+
+>> from langchain_community.document_loaders import ToMarkdownLoader
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.document_loaders import *
+/home/chenjinwen/AI-Security-Evaluation_RAG/RAG.py:1: LangChainDeprecationWarning: Importing TomlLoader from langchain.document_loaders is deprecated. Please replace deprecated imports:
+
+>> from langchain.document_loaders import TomlLoader
+
+with new imports of:
+
+>> from langchain_community.document_loaders import TomlLoader
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.document_loaders import *
+/home/chenjinwen/AI-Security-Evaluation_RAG/RAG.py:1: LangChainDeprecationWarning: Importing TrelloLoader from langchain.document_loaders is deprecated. Please replace deprecated imports:
+
+>> from langchain.document_loaders import TrelloLoader
+
+with new imports of:
+
+>> from langchain_community.document_loaders import TrelloLoader
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.document_loaders import *
+/home/chenjinwen/AI-Security-Evaluation_RAG/RAG.py:1: LangChainDeprecationWarning: Importing TwitterTweetLoader from langchain.document_loaders is deprecated. Please replace deprecated imports:
+
+>> from langchain.document_loaders import TwitterTweetLoader
+
+with new imports of:
+
+>> from langchain_community.document_loaders import TwitterTweetLoader
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.document_loaders import *
+/home/chenjinwen/AI-Security-Evaluation_RAG/RAG.py:1: LangChainDeprecationWarning: Importing UnstructuredAPIFileIOLoader from langchain.document_loaders is deprecated. Please replace deprecated imports:
+
+>> from langchain.document_loaders import UnstructuredAPIFileIOLoader
+
+with new imports of:
+
+>> from langchain_community.document_loaders import UnstructuredAPIFileIOLoader
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.document_loaders import *
+/home/chenjinwen/AI-Security-Evaluation_RAG/RAG.py:1: LangChainDeprecationWarning: Importing UnstructuredAPIFileLoader from langchain.document_loaders is deprecated. Please replace deprecated imports:
+
+>> from langchain.document_loaders import UnstructuredAPIFileLoader
+
+with new imports of:
+
+>> from langchain_community.document_loaders import UnstructuredAPIFileLoader
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.document_loaders import *
+/home/chenjinwen/AI-Security-Evaluation_RAG/RAG.py:1: LangChainDeprecationWarning: Importing UnstructuredCSVLoader from langchain.document_loaders is deprecated. Please replace deprecated imports:
+
+>> from langchain.document_loaders import UnstructuredCSVLoader
+
+with new imports of:
+
+>> from langchain_community.document_loaders import UnstructuredCSVLoader
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.document_loaders import *
+/home/chenjinwen/AI-Security-Evaluation_RAG/RAG.py:1: LangChainDeprecationWarning: Importing UnstructuredEPubLoader from langchain.document_loaders is deprecated. Please replace deprecated imports:
+
+>> from langchain.document_loaders import UnstructuredEPubLoader
+
+with new imports of:
+
+>> from langchain_community.document_loaders import UnstructuredEPubLoader
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.document_loaders import *
+/home/chenjinwen/AI-Security-Evaluation_RAG/RAG.py:1: LangChainDeprecationWarning: Importing UnstructuredEmailLoader from langchain.document_loaders is deprecated. Please replace deprecated imports:
+
+>> from langchain.document_loaders import UnstructuredEmailLoader
+
+with new imports of:
+
+>> from langchain_community.document_loaders import UnstructuredEmailLoader
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.document_loaders import *
+/home/chenjinwen/AI-Security-Evaluation_RAG/RAG.py:1: LangChainDeprecationWarning: Importing UnstructuredExcelLoader from langchain.document_loaders is deprecated. Please replace deprecated imports:
+
+>> from langchain.document_loaders import UnstructuredExcelLoader
+
+with new imports of:
+
+>> from langchain_community.document_loaders import UnstructuredExcelLoader
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.document_loaders import *
+/home/chenjinwen/AI-Security-Evaluation_RAG/RAG.py:1: LangChainDeprecationWarning: Importing UnstructuredFileIOLoader from langchain.document_loaders is deprecated. Please replace deprecated imports:
+
+>> from langchain.document_loaders import UnstructuredFileIOLoader
+
+with new imports of:
+
+>> from langchain_community.document_loaders import UnstructuredFileIOLoader
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.document_loaders import *
+/home/chenjinwen/AI-Security-Evaluation_RAG/RAG.py:1: LangChainDeprecationWarning: Importing UnstructuredFileLoader from langchain.document_loaders is deprecated. Please replace deprecated imports:
+
+>> from langchain.document_loaders import UnstructuredFileLoader
+
+with new imports of:
+
+>> from langchain_community.document_loaders import UnstructuredFileLoader
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.document_loaders import *
+/home/chenjinwen/AI-Security-Evaluation_RAG/RAG.py:1: LangChainDeprecationWarning: Importing UnstructuredHTMLLoader from langchain.document_loaders is deprecated. Please replace deprecated imports:
+
+>> from langchain.document_loaders import UnstructuredHTMLLoader
+
+with new imports of:
+
+>> from langchain_community.document_loaders import UnstructuredHTMLLoader
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.document_loaders import *
+/home/chenjinwen/AI-Security-Evaluation_RAG/RAG.py:1: LangChainDeprecationWarning: Importing UnstructuredImageLoader from langchain.document_loaders is deprecated. Please replace deprecated imports:
+
+>> from langchain.document_loaders import UnstructuredImageLoader
+
+with new imports of:
+
+>> from langchain_community.document_loaders import UnstructuredImageLoader
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.document_loaders import *
+/home/chenjinwen/AI-Security-Evaluation_RAG/RAG.py:1: LangChainDeprecationWarning: Importing UnstructuredMarkdownLoader from langchain.document_loaders is deprecated. Please replace deprecated imports:
+
+>> from langchain.document_loaders import UnstructuredMarkdownLoader
+
+with new imports of:
+
+>> from langchain_community.document_loaders import UnstructuredMarkdownLoader
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.document_loaders import *
+/home/chenjinwen/AI-Security-Evaluation_RAG/RAG.py:1: LangChainDeprecationWarning: Importing UnstructuredODTLoader from langchain.document_loaders is deprecated. Please replace deprecated imports:
+
+>> from langchain.document_loaders import UnstructuredODTLoader
+
+with new imports of:
+
+>> from langchain_community.document_loaders import UnstructuredODTLoader
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.document_loaders import *
+/home/chenjinwen/AI-Security-Evaluation_RAG/RAG.py:1: LangChainDeprecationWarning: Importing UnstructuredOrgModeLoader from langchain.document_loaders is deprecated. Please replace deprecated imports:
+
+>> from langchain.document_loaders import UnstructuredOrgModeLoader
+
+with new imports of:
+
+>> from langchain_community.document_loaders import UnstructuredOrgModeLoader
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.document_loaders import *
+/home/chenjinwen/AI-Security-Evaluation_RAG/RAG.py:1: LangChainDeprecationWarning: Importing UnstructuredPDFLoader from langchain.document_loaders is deprecated. Please replace deprecated imports:
+
+>> from langchain.document_loaders import UnstructuredPDFLoader
+
+with new imports of:
+
+>> from langchain_community.document_loaders import UnstructuredPDFLoader
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.document_loaders import *
+/home/chenjinwen/AI-Security-Evaluation_RAG/RAG.py:1: LangChainDeprecationWarning: Importing UnstructuredPowerPointLoader from langchain.document_loaders is deprecated. Please replace deprecated imports:
+
+>> from langchain.document_loaders import UnstructuredPowerPointLoader
+
+with new imports of:
+
+>> from langchain_community.document_loaders import UnstructuredPowerPointLoader
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.document_loaders import *
+/home/chenjinwen/AI-Security-Evaluation_RAG/RAG.py:1: LangChainDeprecationWarning: Importing UnstructuredRSTLoader from langchain.document_loaders is deprecated. Please replace deprecated imports:
+
+>> from langchain.document_loaders import UnstructuredRSTLoader
+
+with new imports of:
+
+>> from langchain_community.document_loaders import UnstructuredRSTLoader
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.document_loaders import *
+/home/chenjinwen/AI-Security-Evaluation_RAG/RAG.py:1: LangChainDeprecationWarning: Importing UnstructuredRTFLoader from langchain.document_loaders is deprecated. Please replace deprecated imports:
+
+>> from langchain.document_loaders import UnstructuredRTFLoader
+
+with new imports of:
+
+>> from langchain_community.document_loaders import UnstructuredRTFLoader
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.document_loaders import *
+/home/chenjinwen/AI-Security-Evaluation_RAG/RAG.py:1: LangChainDeprecationWarning: Importing UnstructuredTSVLoader from langchain.document_loaders is deprecated. Please replace deprecated imports:
+
+>> from langchain.document_loaders import UnstructuredTSVLoader
+
+with new imports of:
+
+>> from langchain_community.document_loaders import UnstructuredTSVLoader
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.document_loaders import *
+/home/chenjinwen/AI-Security-Evaluation_RAG/RAG.py:1: LangChainDeprecationWarning: Importing UnstructuredURLLoader from langchain.document_loaders is deprecated. Please replace deprecated imports:
+
+>> from langchain.document_loaders import UnstructuredURLLoader
+
+with new imports of:
+
+>> from langchain_community.document_loaders import UnstructuredURLLoader
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.document_loaders import *
+/home/chenjinwen/AI-Security-Evaluation_RAG/RAG.py:1: LangChainDeprecationWarning: Importing UnstructuredWordDocumentLoader from langchain.document_loaders is deprecated. Please replace deprecated imports:
+
+>> from langchain.document_loaders import UnstructuredWordDocumentLoader
+
+with new imports of:
+
+>> from langchain_community.document_loaders import UnstructuredWordDocumentLoader
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.document_loaders import *
+/home/chenjinwen/AI-Security-Evaluation_RAG/RAG.py:1: LangChainDeprecationWarning: Importing UnstructuredXMLLoader from langchain.document_loaders is deprecated. Please replace deprecated imports:
+
+>> from langchain.document_loaders import UnstructuredXMLLoader
+
+with new imports of:
+
+>> from langchain_community.document_loaders import UnstructuredXMLLoader
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.document_loaders import *
+/home/chenjinwen/AI-Security-Evaluation_RAG/RAG.py:1: LangChainDeprecationWarning: Importing WeatherDataLoader from langchain.document_loaders is deprecated. Please replace deprecated imports:
+
+>> from langchain.document_loaders import WeatherDataLoader
+
+with new imports of:
+
+>> from langchain_community.document_loaders import WeatherDataLoader
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.document_loaders import *
+/home/chenjinwen/AI-Security-Evaluation_RAG/RAG.py:1: LangChainDeprecationWarning: Importing WebBaseLoader from langchain.document_loaders is deprecated. Please replace deprecated imports:
+
+>> from langchain.document_loaders import WebBaseLoader
+
+with new imports of:
+
+>> from langchain_community.document_loaders import WebBaseLoader
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.document_loaders import *
+/home/chenjinwen/AI-Security-Evaluation_RAG/RAG.py:1: LangChainDeprecationWarning: Importing WhatsAppChatLoader from langchain.document_loaders is deprecated. Please replace deprecated imports:
+
+>> from langchain.document_loaders import WhatsAppChatLoader
+
+with new imports of:
+
+>> from langchain_community.document_loaders import WhatsAppChatLoader
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.document_loaders import *
+/home/chenjinwen/AI-Security-Evaluation_RAG/RAG.py:1: LangChainDeprecationWarning: Importing WikipediaLoader from langchain.document_loaders is deprecated. Please replace deprecated imports:
+
+>> from langchain.document_loaders import WikipediaLoader
+
+with new imports of:
+
+>> from langchain_community.document_loaders import WikipediaLoader
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.document_loaders import *
+/home/chenjinwen/AI-Security-Evaluation_RAG/RAG.py:1: LangChainDeprecationWarning: Importing XorbitsLoader from langchain.document_loaders is deprecated. Please replace deprecated imports:
+
+>> from langchain.document_loaders import XorbitsLoader
+
+with new imports of:
+
+>> from langchain_community.document_loaders import XorbitsLoader
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.document_loaders import *
+/home/chenjinwen/AI-Security-Evaluation_RAG/RAG.py:1: LangChainDeprecationWarning: Importing YoutubeAudioLoader from langchain.document_loaders is deprecated. Please replace deprecated imports:
+
+>> from langchain.document_loaders import YoutubeAudioLoader
+
+with new imports of:
+
+>> from langchain_community.document_loaders import YoutubeAudioLoader
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.document_loaders import *
+/home/chenjinwen/AI-Security-Evaluation_RAG/RAG.py:1: LangChainDeprecationWarning: Importing YoutubeLoader from langchain.document_loaders is deprecated. Please replace deprecated imports:
+
+>> from langchain.document_loaders import YoutubeLoader
+
+with new imports of:
+
+>> from langchain_community.document_loaders import YoutubeLoader
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.document_loaders import *
+/home/chenjinwen/AI-Security-Evaluation_RAG/RAG.py:1: LangChainDeprecationWarning: Importing YuqueLoader from langchain.document_loaders is deprecated. Please replace deprecated imports:
+
+>> from langchain.document_loaders import YuqueLoader
+
+with new imports of:
+
+>> from langchain_community.document_loaders import YuqueLoader
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.document_loaders import *
+/home/chenjinwen/AI-Security-Evaluation_RAG/RAG.py:1: LangChainDeprecationWarning: Importing AcreomLoader from langchain.document_loaders is deprecated. Please replace deprecated imports:
+
+>> from langchain.document_loaders import AcreomLoader
+
+with new imports of:
+
+>> from langchain_community.document_loaders import AcreomLoader
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.document_loaders import *
+/home/chenjinwen/AI-Security-Evaluation_RAG/RAG.py:1: LangChainDeprecationWarning: Importing AsyncChromiumLoader from langchain.document_loaders is deprecated. Please replace deprecated imports:
+
+>> from langchain.document_loaders import AsyncChromiumLoader
+
+with new imports of:
+
+>> from langchain_community.document_loaders import AsyncChromiumLoader
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.document_loaders import *
+/home/chenjinwen/AI-Security-Evaluation_RAG/RAG.py:1: LangChainDeprecationWarning: Importing AZLyricsLoader from langchain.document_loaders is deprecated. Please replace deprecated imports:
+
+>> from langchain.document_loaders import AZLyricsLoader
+
+with new imports of:
+
+>> from langchain_community.document_loaders import AZLyricsLoader
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.document_loaders import *
+/home/chenjinwen/AI-Security-Evaluation_RAG/RAG.py:1: LangChainDeprecationWarning: Importing AirbyteCDKLoader from langchain.document_loaders is deprecated. Please replace deprecated imports:
+
+>> from langchain.document_loaders import AirbyteCDKLoader
+
+with new imports of:
+
+>> from langchain_community.document_loaders import AirbyteCDKLoader
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.document_loaders import *
+/home/chenjinwen/AI-Security-Evaluation_RAG/RAG.py:1: LangChainDeprecationWarning: Importing AirbyteGongLoader from langchain.document_loaders is deprecated. Please replace deprecated imports:
+
+>> from langchain.document_loaders import AirbyteGongLoader
+
+with new imports of:
+
+>> from langchain_community.document_loaders import AirbyteGongLoader
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.document_loaders import *
+/home/chenjinwen/AI-Security-Evaluation_RAG/RAG.py:1: LangChainDeprecationWarning: Importing AirbyteJSONLoader from langchain.document_loaders is deprecated. Please replace deprecated imports:
+
+>> from langchain.document_loaders import AirbyteJSONLoader
+
+with new imports of:
+
+>> from langchain_community.document_loaders import AirbyteJSONLoader
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.document_loaders import *
+/home/chenjinwen/AI-Security-Evaluation_RAG/RAG.py:1: LangChainDeprecationWarning: Importing AirbyteHubspotLoader from langchain.document_loaders is deprecated. Please replace deprecated imports:
+
+>> from langchain.document_loaders import AirbyteHubspotLoader
+
+with new imports of:
+
+>> from langchain_community.document_loaders import AirbyteHubspotLoader
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.document_loaders import *
+/home/chenjinwen/AI-Security-Evaluation_RAG/RAG.py:1: LangChainDeprecationWarning: Importing AirbyteSalesforceLoader from langchain.document_loaders is deprecated. Please replace deprecated imports:
+
+>> from langchain.document_loaders import AirbyteSalesforceLoader
+
+with new imports of:
+
+>> from langchain_community.document_loaders import AirbyteSalesforceLoader
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.document_loaders import *
+/home/chenjinwen/AI-Security-Evaluation_RAG/RAG.py:1: LangChainDeprecationWarning: Importing AirbyteShopifyLoader from langchain.document_loaders is deprecated. Please replace deprecated imports:
+
+>> from langchain.document_loaders import AirbyteShopifyLoader
+
+with new imports of:
+
+>> from langchain_community.document_loaders import AirbyteShopifyLoader
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.document_loaders import *
+/home/chenjinwen/AI-Security-Evaluation_RAG/RAG.py:1: LangChainDeprecationWarning: Importing AirbyteStripeLoader from langchain.document_loaders is deprecated. Please replace deprecated imports:
+
+>> from langchain.document_loaders import AirbyteStripeLoader
+
+with new imports of:
+
+>> from langchain_community.document_loaders import AirbyteStripeLoader
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.document_loaders import *
+/home/chenjinwen/AI-Security-Evaluation_RAG/RAG.py:1: LangChainDeprecationWarning: Importing AirbyteTypeformLoader from langchain.document_loaders is deprecated. Please replace deprecated imports:
+
+>> from langchain.document_loaders import AirbyteTypeformLoader
+
+with new imports of:
+
+>> from langchain_community.document_loaders import AirbyteTypeformLoader
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.document_loaders import *
+/home/chenjinwen/AI-Security-Evaluation_RAG/RAG.py:1: LangChainDeprecationWarning: Importing AirbyteZendeskSupportLoader from langchain.document_loaders is deprecated. Please replace deprecated imports:
+
+>> from langchain.document_loaders import AirbyteZendeskSupportLoader
+
+with new imports of:
+
+>> from langchain_community.document_loaders import AirbyteZendeskSupportLoader
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.document_loaders import *
+/home/chenjinwen/AI-Security-Evaluation_RAG/RAG.py:1: LangChainDeprecationWarning: Importing AirtableLoader from langchain.document_loaders is deprecated. Please replace deprecated imports:
+
+>> from langchain.document_loaders import AirtableLoader
+
+with new imports of:
+
+>> from langchain_community.document_loaders import AirtableLoader
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.document_loaders import *
+/home/chenjinwen/AI-Security-Evaluation_RAG/RAG.py:3: LangChainDeprecationWarning: Importing HuggingFaceEmbeddings from langchain.embeddings is deprecated. Please replace deprecated imports:
+
+>> from langchain.embeddings import HuggingFaceEmbeddings
+
+with new imports of:
+
+>> from langchain_community.embeddings import HuggingFaceEmbeddings
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.embeddings.huggingface import HuggingFaceEmbeddings
+/home/chenjinwen/AI-Security-Evaluation_RAG/RAG.py:4: LangChainDeprecationWarning: Importing Chroma from langchain.vectorstores is deprecated. Please replace deprecated imports:
+
+>> from langchain.vectorstores import Chroma
+
+with new imports of:
+
+>> from langchain_community.vectorstores import Chroma
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.vectorstores import Chroma, FAISS
+/home/chenjinwen/AI-Security-Evaluation_RAG/RAG.py:4: LangChainDeprecationWarning: Importing FAISS from langchain.vectorstores is deprecated. Please replace deprecated imports:
+
+>> from langchain.vectorstores import FAISS
+
+with new imports of:
+
+>> from langchain_community.vectorstores import FAISS
+You can use the langchain cli to **automatically** upgrade many imports. Please see documentation here <https://python.langchain.com/docs/versions/v0_2/>
+  from langchain.vectorstores import Chroma, FAISS
+/home/chenjinwen/AI-Security-Evaluation_RAG/RAG.py:26: LangChainDeprecationWarning: The class `HuggingFaceEmbeddings` was deprecated in LangChain 0.2.2 and will be removed in 1.0. An updated version of the class exists in the :class:`~langchain-huggingface package and should be used instead. To use it run `pip install -U :class:`~langchain-huggingface` and import as `from :class:`~langchain_huggingface import HuggingFaceEmbeddings``.
+  embedding_model = HuggingFaceEmbeddings(  # embedding 模型
+True
+Traceback (most recent call last):
+  File "/home/chenjinwen/AI-Security-Evaluation_RAG/RAG.py", line 72, in <module>
+    vector_store.save_local("/home/chenjinwen/AI-Security-Evaluation_RAG/data/faiss")
+  File "/home/chenjinwen/anaconda3/envs/pt24/lib/python3.10/site-packages/langchain_community/vectorstores/faiss.py", line 1158, in save_local
+    faiss.write_index(self.index, str(path / f"{index_name}.faiss"))
+  File "/home/chenjinwen/anaconda3/envs/pt24/lib/python3.10/site-packages/faiss/swigfaiss.py", line 9843, in write_index
+    return _swigfaiss.write_index(*args)
+RuntimeError: Error in void faiss::write_index(const faiss::Index*, faiss::IOWriter*) at /project/faiss/faiss/impl/index_write.cpp:348: Error: 'ret == (size * 4)' failed: write error in /home/chenjinwen/AI-Security-Evaluation_RAG/data/faiss/index.faiss: 5858602963 != 6303055872 (No space left on device)
