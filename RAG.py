@@ -95,7 +95,7 @@ def get_answer_Qwen(question, model, tokenizer, vector_store, device, k=6, rag=F
         docs=vector_store.similarity_search(question, k=k)  # 计算相似度，并把相似度高的chunk放在前面
         contexts = [doc.page_content for doc in docs]
         contexts_text="\n".join(contexts)       
-        system_prompt = f"You are now playing the role of the encyclopedia. Answer my questions without any unnecessary words.Here is some knowledge you can refer to:\n{contexts_text}"   
+        system_prompt = f"You are now playing the role of the encyclopedia. Answer my questions without any unnecessary words. Here is some knowledge you can refer to:\n{contexts_text}"   
     else:
         system_prompt = "You are now playing the role of the encyclopedia. Answer my questions without any unnecessary words."
     if not question.endswith("?"):
